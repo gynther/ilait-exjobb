@@ -1,0 +1,8 @@
+!<arch>
+__.SYMDEF                                                       1297781107  0     0     644     0         `
+__.PKGDEF                                                       1297781107  0     0     644     44        `
+import
+$$
+package __emptyarchive__ safe
+
+$$
